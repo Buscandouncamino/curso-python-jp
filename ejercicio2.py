@@ -1,0 +1,6 @@
+fn = float(input("ingrese un numero-->"))
+sn = float(input("ingrese otro numero-->"))
+print(fn + sn)
+print(fn - sn)
+print(fn / sn)
+print(fn * sn)
